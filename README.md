@@ -1,12 +1,11 @@
 # gluten-free-goodness
-tips and recipes for going gluten-free
+Easy Ways to Go Gluten-Free
 
 [Modern Bread & Bagel](https://www.modernbreadandbagel.com/)
 
 
 
 
-![Nicholas Cage is gluten-free.](https://www.placecage.com/g/200/300)
 
 Consider it.
 

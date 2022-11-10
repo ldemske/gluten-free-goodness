@@ -1,4 +1,3 @@
-# gluten-free-goodness
 # Easy Ways to Go Gluten-Free
 
 

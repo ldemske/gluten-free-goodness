@@ -1,5 +1,5 @@
 # gluten-free-goodness
-#Easy Ways to Go Gluten-Free#
+# Easy Ways to Go Gluten-Free
 
 
 
@@ -11,10 +11,10 @@ The answer is a resounding "*Yes!*"
 
 
 
-##Resources##
+## Resources
 
 
-##Gluten-Free Goodies##
+## Gluten-Free Goodies
 
 [Modern Bread & Bagel](https://www.modernbreadandbagel.com/)
 

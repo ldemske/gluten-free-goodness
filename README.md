@@ -1,9 +1,9 @@
 # Easy Ways to Go Gluten-Free
 
+You may be wondering if it is worth it or not to go gluten-free.
 
 
 
-https://github.com/l7demske/gluten-free-goodness/blob/main/gluten%20vs.%20wheat
 
 
 The answer is a resounding "*Yes!*"
